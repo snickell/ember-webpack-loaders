@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "components-ember": "https://github.com/components/ember/tarball/2.2.0",
-    "ember-cli-htmlbars": "^1.0.2",
+    "ember-cli-htmlbars": "^0.6.0",
     "loader-utils": "^0.2.12",
     "recursive-readdir-sync": "^1.0.6"
   }
